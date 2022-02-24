@@ -80,3 +80,5 @@ function criarLayout(contato){
 
    secaoListadeContatos_Lista.appendChild(li);
 }
+
+
