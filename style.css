@@ -3,7 +3,7 @@ body{
 }
 
 header{
-    background-color: #162b7b;
+    background-color: #ffffff;
     padding: 30px 0;
 }
 header .container{
@@ -31,7 +31,7 @@ main section{
     padding: 100px 40px;
 }
 .secaoFormulario{
-    background-color: #162b7b;
+    background-color: rgb(31, 11, 117);
     
 
 }
@@ -63,14 +63,14 @@ main section{
 
 }
 .secaoListadeContatos{
-    background-color: hsl(228deg 70% 28% / 10%);
+    background-color: rgb(31, 11, 117);
 }
 .secaoListadeContatos_Lista{
     width: 100%;
     max-width: 450px;
 }
 .secaoListadeContatos_Lista li{
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     padding: 20px 30px;
     border-radius: 10px;
     margin-bottom: 30px;
